@@ -1,4 +1,6 @@
-The goal of the task is to create a CI/CD pipeline using GitHub Actions.
+##CI/CD
+
+The goal of the task was to create a CI/CD pipeline using GitHub Actions.
 
 **How to:**
 
